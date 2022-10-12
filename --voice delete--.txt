@@ -47,3 +47,9 @@ irelia
 taliyah
 viego
 jinx
+kayle
+vi
+samira
+olaf
+vex
+talon
